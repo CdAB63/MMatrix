@@ -1,0 +1,15 @@
+{
+	"commentStamp" : "",
+	"super" : "Object",
+	"category" : "CdAB63-DNN-MMatrix",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"nbRows",
+		"nbColumns",
+		"array"
+	],
+	"name" : "MMatrix",
+	"type" : "normal"
+}
