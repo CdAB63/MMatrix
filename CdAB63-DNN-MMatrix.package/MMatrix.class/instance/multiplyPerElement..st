@@ -1,4 +1,4 @@
-as yet unclassified
+arithmetic
 multiplyPerElement: mat
 	"multiply two matrixes element wise"
 	| r |

@@ -1,4 +1,4 @@
-as yet unclassified
+arithmetic
 dot: anotherMatrix
 	"dot product between matrixes"
 	| result resultArray |

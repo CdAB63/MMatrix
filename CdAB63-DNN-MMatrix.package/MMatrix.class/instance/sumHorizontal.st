@@ -1,4 +1,4 @@
-as yet unclassified
+arithmetic
 sumHorizontal
 	"Horizontal summing"
 	| result sum |

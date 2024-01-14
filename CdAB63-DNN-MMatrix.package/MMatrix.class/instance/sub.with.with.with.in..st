@@ -1,4 +1,4 @@
-as yet unclassified
+arithmetic
 sub: m1 with: nb_rows with: nb_columns with: m2 in: res
 	"the ffi call to subtraction"
 	^ self

@@ -1,4 +1,4 @@
-as yet unclassified
+arithmetic
 inverse: m1 with: dim in: ret
 
 	Transcript 

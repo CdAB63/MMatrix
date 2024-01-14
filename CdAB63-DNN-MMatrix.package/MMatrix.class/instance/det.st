@@ -1,4 +1,4 @@
-as yet unclassified
+arithmetic
 det
 	"Calculate the determinant"
 	| d |

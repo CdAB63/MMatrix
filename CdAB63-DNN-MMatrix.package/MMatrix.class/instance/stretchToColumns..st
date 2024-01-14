@@ -1,4 +1,4 @@
-as yet unclassified
+matrix-manipulation
 stretchToColumns: nbOfColumns
 	"stretch vertical vector in columns"
 	| content result |
